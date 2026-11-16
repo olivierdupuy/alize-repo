@@ -1,0 +1,22 @@
+Package: alize-desktop
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: metapackages
+Maintainer: Alizé OS <noreply@alize-os.invalid>
+Installed-Size: 2368
+Depends: plasma-desktop, plasma-workspace, sddm-theme-breeze, fonts-inter, fonts-jetbrains-mono, papirus-icon-theme, plymouth, plymouth-label, kdialog, ca-certificates, unattended-upgrades
+Recommends: wine, firefox-esr, plasma-discover
+Filename: pool/main/a/alize-desktop/alize-desktop_1.0.0_all.deb
+Size: 1928200
+MD5sum: 2a696e69d007c6b65e199b1e553afc83
+SHA1: 0befb5e7c730e407ac4cf105024855d7055d78c3
+SHA256: 0843110d30a7383e2717d9ea6d89ef7978d09f756653903d20c31b1ee7e2fd12
+SHA512: 8e7a31504ba847c0a6c3ad47e199b8d04211e6b028c26f4653091049fb1066f52f0fdef50dfed17fb16cf95901278c93b6424ad6f9452e52a387a78bc7fffe81
+Description: Bureau, thème et mises à jour d'Alizé OS
+ Tout ce qui fait Alizé OS au-dessus de Debian : thème global (barre de menus,
+ dock), décorations de fenêtre, palettes claire et sombre, fonds d'écran,
+ écrans de démarrage, lanceur de programmes Windows et dépôt de mises à jour.
+ .
+ Mettre à jour ce paquet met à jour le système Alizé OS.
+

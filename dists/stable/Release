@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 16 Nov 2026 23:59:14 +0000
+Label: Alize OS
+Origin: Alize OS
+Suite: stable
+MD5Sum:
+ 84ac852a2ae72cbfa7bdcc0d3bf9584c             1142 main/binary-amd64/Packages
+ d9a2f913b234623b36cbe7fab03a9f5c              759 main/binary-amd64/Packages.gz
+SHA1:
+ 7dc78da18e75ad2eb95958400f34073788b8cffe             1142 main/binary-amd64/Packages
+ 54ea66bc8a779d66498ef4c69b8d70004f5f99c9              759 main/binary-amd64/Packages.gz
+SHA256:
+ f6fef5125baa964ba7369a0a6b7b32d46627e4826a2c9d969f4d6185993496f9             1142 main/binary-amd64/Packages
+ f1d1c6880338a945fb08efc1164c86650cd373941bf23e5e7c94f70acf6af37c              759 main/binary-amd64/Packages.gz
+SHA512:
+ bfb3066e4711a4c530b03c84fb3ab27694cf65294b76b657c374bb497f83eeab889d1fe9502519f66c4ddd5bfb874a88922fdb3643f47fe40c084848e4dfed19             1142 main/binary-amd64/Packages
+ 55f2e39d60c6f2eed60463b78faa578c63f583bac8abf4a47a3e362218b3b17a16d5af91de600d37b20553f8ec924dd6dacba75bb99cb1d5e8bd3cb74f0ed52b              759 main/binary-amd64/Packages.gz
